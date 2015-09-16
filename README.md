@@ -1,4 +1,4 @@
 # dataClasses
 ## second line
-*first
-*scond
+* first
+* scond
